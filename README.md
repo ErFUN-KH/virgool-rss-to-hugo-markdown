@@ -1,0 +1,1 @@
+# virgool-rss-to-hugo-markdown
