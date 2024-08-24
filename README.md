@@ -1,1 +1,1 @@
-# virgool-rss-to-hugo-markdown
+# Virgool RSS to hugo markdown
