@@ -24,4 +24,10 @@ jobs:
         with:
           feed_url: 'https://virgool.io/feed/@erfun'
           template_file: './assets/template.md'
-          output_dir: './_posts/events/'
+          output_dir: './_posts/'
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: posts
+          path: ./_posts/
