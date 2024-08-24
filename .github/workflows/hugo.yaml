@@ -24,4 +24,4 @@ jobs:
         with:
           feed_url: 'https://virgool.io/feed/@erfun'
           template_file: './assets/template.md'
-          output_dir: '_posts/events/'
+          output_dir: './_posts/events/'
